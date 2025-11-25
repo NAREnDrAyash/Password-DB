@@ -1,4 +1,4 @@
-# Secure Vault Project
+# Password-DB
 
 ## Overview
 This project is a secure vault application with a Python backend and a React frontend. It allows users to register, log in, and manage vault entries securely.
